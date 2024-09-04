@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+#progress {
+    margin-top: 20px;
+    font-size: 18px;
+    color: blue;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
