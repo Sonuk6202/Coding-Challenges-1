@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
